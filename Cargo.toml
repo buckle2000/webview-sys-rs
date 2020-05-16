@@ -9,6 +9,9 @@ edition = "2018"
 [lib]
 crate-type = ["cdylib"]
 
+[features]
+edge = []
+
 [dependencies]
 
 [build-dependencies]
